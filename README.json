@@ -1,0 +1,532 @@
+{
+  "items": [
+    {
+      "description": "See the dedicated software section below.",
+      "items": [],
+      "title": "Physical Hardware hacking"
+    },
+    {
+      "description": "Once you chose your hardware path, you can chose a way to provide content to the terminal. This section contains various client and server implementations that can help using your Minitel.",
+      "items": [],
+      "title": "Software"
+    },
+    {
+      "description": "By client side, we mean the software running on the Minitel side / next to the terminal, able to serve content, receive inputs and eventually fetch content from a remote server (see server side). Depending on the additional hardware you own or hardware modifications you performed, some clients may or may not be suitable for you.",
+      "items": [],
+      "title": "Client side"
+    },
+    {
+      "description": "Those projects are dedicated to people using the serial port of their Minitel with an ESP32 microcontroller. See the hardware section (DIY) above for more information about the required hardware (ESP32 devboard or a custom cable with a bare ESP32).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iodeo/Minitel-ESP32",
+          "description": "💙 - Iodeo's compilation of code samples for Minitel apps development using ESP32 (Arduino or micropython). This is a good start point if you want to use a modified ESP32. See also the associated hackaday project page for instructions. Telnet Pro 💙 is highly recommended, and takes profit from SPIFFS which is a small filesystem for Arduino (useful to persist your server list, SSID/WiFi credentials...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T10:28:17Z",
+            "owner": "iodeo",
+            "repo": "Minitel-ESP32",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eserandour/Minitel1B_Hard",
+          "description": "Minitel Library for Arduino (with HardwareSerial).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T13:20:47Z",
+            "owner": "eserandour",
+            "repo": "Minitel1B_Hard",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iodeo/Socketel",
+          "description": "A portal to Minitel webservices written in micropython for ESP32. Services are externally hosted, see server section.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-20T13:45:24Z",
+            "owner": "iodeo",
+            "repo": "Socketel",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jbellue/3615_SSH",
+          "description": "An SSH client for ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-12-05T07:56:40Z",
+            "owner": "jbellue",
+            "repo": "3615_SSH",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Firmware for ESP32 using Minitel serial port"
+    },
+    {
+      "description": "Projects dedicated to people using the serial port of their Minitel directly from a computer with a custom adapter, without needing a standalone microcontroller. Useful if you can to control your Minitel from a Raspberry Pi, a computer, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Picotel",
+          "description": "A project by Dominique Meurisse using a Raspberry Pi pico and custom adapters. See also his blog for more information. (FR/BE)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T19:46:33Z",
+            "owner": "mchobby",
+            "repo": "picotel",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cquest/websocket2minitel",
+          "description": "A middleware between a websocket-based Minitel server and the Minitel serial port. Written by Christian Quest. (EN)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-24T00:22:01Z",
+            "owner": "cquest",
+            "repo": "websocket2minitel",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minitel Image Viewer",
+          "description": "Python app with a graphical interface that converts an image into the Minitel’s G1 mosaic character set and sends it to the terminal over serial (or exports the result as a .vdt file)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-15T17:13:10Z",
+            "owner": "pR-0000",
+            "repo": "Minitel-image-viewer",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Clients for serial communication from computer."
+    },
+    {
+      "description": "Minitel server implementations. The idea of these projects is to serve content (VDT pages, text, other...) to clients (software running on a companion board/computer next to the Minitel or on the Minitel directly). Most of the time, these projects are meant to work with Websockets, Telnet, SSH, a directly serial connected terminal, or natively on a X.25 network.\nDepending on your architecture, client and the way the client is able to fetch content, some of these projects may or may not be suitable for you.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cquest/pyNitel",
+          "description": "A python library to write Minitel servers/software communicating to Minitel through a serial interface. Contains two example services, a minitel directory and 3615 ULLA simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-31T22:16:06Z",
+            "owner": "cquest",
+            "repo": "pynitel",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/PyMinitel",
+          "description": "A python library to control a Minitel from a computer running Linux using a serial interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T06:37:48Z",
+            "owner": "Zigazou",
+            "repo": "PyMinitel",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cquest/cristel",
+          "description": "Apple II Minitel server (1986) using Merlin / BIGMAC assembler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-24T13:51:39Z",
+            "owner": "cquest",
+            "repo": "cristel",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ludosevilla/minipaviCli",
+          "description": "A Minitel server SDK allowing to build services around simple HTTP requests and PHP, via a MiniPavi gateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-24T17:41:50Z",
+            "owner": "ludosevilla",
+            "repo": "minipaviCli",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ludosevilla/minipavi",
+          "description": "MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-04T16:28:53Z",
+            "owner": "ludosevilla",
+            "repo": "minipavi",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BwanaFr/minitel-server",
+          "description": "A small TCP based Minitel server written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-01T15:58:23Z",
+            "owner": "BwanaFr",
+            "repo": "minitel-server",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "64rulez/PyMoIP",
+          "description": "A Minitel server using websockets in python. The project also contains other useful elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-10T12:14:58Z",
+            "owner": "64rulez",
+            "repo": "PyMoIP",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiktim/minitel.js",
+          "description": "A NodeJS server to send content to a Minitel through a websocket.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T01:16:21Z",
+            "owner": "jiktim",
+            "repo": "minitel.js",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cquest/dragster",
+          "description": "Obsolete Minitel server (1985) using MPW (Macintosh Programmer's Workshop).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OpenEdge ABL",
+            "last_commit": "2018-07-22T13:20:37Z",
+            "owner": "cquest",
+            "repo": "dragster",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/miplayer",
+          "description": "A python program to continuously send VDT files to Minitel using serial interface(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-19T06:07:32Z",
+            "owner": "Zigazou",
+            "repo": "miplayer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/HaMinitel",
+          "description": "An Haskell Minitel server for Linux pushing content through or a real RS-232 port connected to a modem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2015-02-25T06:25:35Z",
+            "owner": "Zigazou",
+            "repo": "HaMinitel",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mushussu/Serveur-Minitel",
+          "description": "A Minitel test server written in C pushing content to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-11T14:40:52Z",
+            "owner": "Mushussu",
+            "repo": "Serveur-Minitel",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Server side"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zigazou/miedit (emulator section)",
+          "description": "A Minitel emulator running in the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-15T21:43:51Z",
+            "owner": "Zigazou",
+            "repo": "miedit",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bill-of-materials/docker-miedit-emulator (container)",
+          "description": "If you're lazy and just want to quickly run a miedit emulator to connect to a websocket server, you can use this almost pointless Docker container I'm maintaining.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2024-09-28T23:38:09Z",
+            "owner": "bill-of-materials",
+            "repo": "docker-miedit-emulator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Emulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jfdelnero/vdt2bpm",
+          "description": "A small VDT to BPM file converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T11:37:30Z",
+            "owner": "jfdelnero",
+            "repo": "minitel",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jfdelnero/vdt2wav",
+          "description": "A small VDT to WAV file converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T11:37:30Z",
+            "owner": "jfdelnero",
+            "repo": "minitel",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "immjs/minitel-react",
+          "description": "A react renderer designed for the Minitel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-01T05:32:34Z",
+            "owner": "immjs",
+            "repo": "minitel-react",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chris-y/PPMToVtx",
+          "description": "A C program to convert PPM files (Portable pixmap) to Vtx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-01-22T14:49:03Z",
+            "owner": "chris-y",
+            "repo": "ppmtovtx",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/unitel2vdt",
+          "description": "A standalone Python3 script that allows you to extract Videotex pages from an 8 inches floppy disk created on a Unitel application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-17T22:33:08Z",
+            "owner": "Zigazou",
+            "repo": "Unitel",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/ebcdic2vdt/unitel2vdt",
+          "description": "A C and bash program to convert EBCDIC disk images to vdt files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-07-16T21:47:48Z",
+            "owner": "Zigazou",
+            "repo": "ebcdic2vdt",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigazou/teletext2minitel",
+          "description": "A simple standalone CLI PHP script which tries to convert Teletext/CEEFAX pages to Minitel pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-05-19T17:07:14Z",
+            "owner": "Zigazou",
+            "repo": "teletext2minitel",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hxc2001",
+          "description": "💙 - Hardware study of the Minitel in french. Also available here. This content is referred multiple time in this repository and feels like a rabbit hole. (FR)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T11:37:30Z",
+            "owner": "jfdelnero",
+            "repo": "minitel",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minitel Datasheets",
+          "description": "All datasheets of Minitel parts, compiled by MCHobby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-09T19:46:33Z",
+            "owner": "mchobby",
+            "repo": "picotel",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Extra studies and documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XReyRobert/VideotexPagesRepository",
+          "description": "An archive of VDT pages with GIF conversion for modern browsing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-10T19:24:30Z",
+            "owner": "XReyRobert",
+            "repo": "VideotexPagesRepository",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reviving Minitel Presentation",
+          "description": "Sources of the “Reviving Minitel” presentation given at FOSDEM 2020 (Belgium).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-04T18:27:11Z",
+            "owner": "Zigazou",
+            "repo": "reviving-minitel",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "The awesome-minitel project is released under the CeCILL-B (en, fr) license.\nhttps://cecill.info/",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:56:24.381Z",
+    "original_repository": "bill-of-materials/awesome-minitel",
+    "original_repository_sha": "569449bc93781cfde2b40c9f736ed5d42de36d28",
+    "enhanced_repository": "enhansome/enhansome-minitel",
+    "enhanced_repository_description": null,
+    "title": "Awesome Minitel with stars"
+  }
+}
