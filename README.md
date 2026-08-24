@@ -87,6 +87,10 @@ and send keyboard inputs. This is the easiest way to use the Minitel today
 since it doesn't require any physical modifications of the terminals. Extra
 hardware is required to adapt the signal due to unusual voltage levels (>5V).
 
+* [pi0tel](https://github.com/faxm0dem/pi0tel) ⭐ 9 | 🐛 1 | 📅 2021-04-12 - 3615 pi0, a Raspberry Pi pi0 or
+  pi0-w uHat designed to be plugged on serial interface and self powered by the
+  Minitel.
+
 * [**Iodeo's ESP32 devboard**](https://hackaday.io/project/180473-minitel-esp32)
   💙 and [specific instructions](https://hackaday.io/project/180473/instructions) -
   The easiest way to use the serial port of a Minitel today. You don't require
@@ -96,10 +100,6 @@ hardware is required to adapt the signal due to unusual voltage levels (>5V).
   Minitel, which is *very* useful. See [software
   section](#firmware-for-esp32-using-minitel-serial-port) for a list of software
   you can run client side on the ESP32.
-
-* [pi0tel](https://github.com/faxm0dem/pi0tel) ⭐ 9 | 🐛 1 | 📅 2021-04-12 - 3615 pi0, a Raspberry Pi pi0 or
-  pi0-w uHat designed to be plugged on serial interface and self powered by the
-  Minitel.
 
 * [Jelora's custom cables (Serial <> RS232 and Serial <>
   USB)](https://www.jelora.fr/post/2020/02/25/Adaptateur-prise-DIN-peri-informatique-Minitel-vers-Serie-RS232-et-Serie-USB.html) -
@@ -130,11 +130,11 @@ hardware is required to adapt the signal due to unusual voltage levels (>5V).
 
 Another approach could be to modify the terminals directly.
 
+* [64rulez's Minitel2.0](https://github.com/64rulez/minitel2.0) ⭐ 0 | 🐛 0 | 📅 2021-02-06 - A replacement
+  of Minitel hardware with a Zynq board. (EN)
 * [High Tech Minitel](https://chapelierfou.org/blog/a-high-tech-minitel.html) -
   A replacement of the Minitel 1B screen and creation of an Arduino based
   generic USB keyboard controller. (EN)
-* [64rulez's Minitel2.0](https://github.com/64rulez/minitel2.0) ⭐ 0 | 🐛 0 | 📅 2021-02-06 - A replacement
-  of Minitel hardware with a Zynq board. (EN)
 * [cfp-radio](https://www.cfp-radio.com/realisations/rea48/minitel-01.html) -
   Converting a Minitel to a TV monitor / composite video monitor. (FR)
 

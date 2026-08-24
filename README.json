@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "description": "This section is dedicated on the hardware you can connect to a Minitel (serial port or telephonic port / non-destructive) or the physical hardware modifications (potentially destructive) you can perform on the terminal.\nYou have multiple possible approaches:\nIn all those possible hardware modifications, the easiest way to provide content to the Minitel is to use its serial port at the back (Minitel 1B), called the Péri-informatique port.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pi0tel",
+              "description": "3615 pi0, a Raspberry Pi pi0 or pi0-w uHat designed to be plugged on serial interface and self powered by the Minitel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275665483,
+                "language": null,
+                "last_commit": "2021-04-12T17:25:25Z",
+                "owner": "faxm0dem",
+                "repo": "pi0tel",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "This section provides different ways of using the Péri-informatique Serial socket of the Minitel, which is able to receive characters / octets to display, and send keyboard inputs. This is the easiest way to use the Minitel today since it doesn't require any physical modifications of the terminals. Extra hardware is required to adapt the signal due to unusual voltage levels (>5V).",
+          "node_type": "group",
+          "title": "DIY Serial interface"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vdt2bmp",
+              "description": "💙 - Emulate FSK payloads (that the native V.23 modem will be able to decode) with a just a soundcard and a home made jack adapter with a resistor. Can work with a smartphone. More information on hxc2001's website and on museeminitel (FR)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88786136,
+                "language": "C",
+                "last_commit": "2026-08-08T11:37:30Z",
+                "owner": "jfdelnero",
+                "repo": "minitel",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Telephonic socket"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "64rulez's Minitel2.0",
+              "description": "A replacement of Minitel hardware with a Zynq board. (EN)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369915439,
+                "language": null,
+                "last_commit": "2021-02-06T17:34:03Z",
+                "owner": "64rulez",
+                "repo": "minitel2.0",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Another approach could be to modify the terminals directly.",
+          "node_type": "group",
+          "title": "Physical Hardware modification"
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
       "description": "Once you chose your hardware path, you can chose a way to provide content to the terminal. This section contains various client and server implementations that can help using your Minitel.",
       "items": [
         {
@@ -123,6 +195,28 @@
               "description": "Projects dedicated to people using the serial port of their Minitel directly from a computer with a custom adapter, without needing a standalone microcontroller. Useful if you can to control your Minitel from a Raspberry Pi, a computer, etc.",
               "node_type": "group",
               "title": "Clients for serial communication from computer."
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Microprocessor Reprogrammation",
+                  "description": "💙 - Someone with a decent level of determination found the way to upload a custom firmware to the very limited Minitel microprocessor, in order to display an impressive demo. You can find the code of the demo here: the_minitel_demo. You can also find a dump of the original EPROM with the stock firmware here. A presentation has been made on the subject, slides can be found here (FR/DE)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 88786136,
+                    "language": "C",
+                    "last_commit": "2026-08-08T11:37:30Z",
+                    "owner": "jfdelnero",
+                    "repo": "minitel",
+                    "stars": 71
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reprogramming"
             }
           ],
           "description": "By client side, we mean the software running on the Minitel side / next to the terminal, able to serve content, receive inputs and eventually fetch content from a remote server (see server side). Depending on the additional hardware you own or hardware modifications you performed, some clients may or may not be suitable for you.",
@@ -315,6 +409,28 @@
           "description": "Minitel server implementations. The idea of these projects is to serve content (VDT pages, text, other...) to clients (software running on a companion board/computer next to the Minitel or on the Minitel directly). Most of the time, these projects are meant to work with Websockets, Telnet, SSH, a directly serial connected terminal, or natively on a X.25 network.\nDepending on your architecture, client and the way the client is able to fetch content, some of these projects may or may not be suitable for you.",
           "node_type": "group",
           "title": "Server side"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zigazou/miedit",
+              "description": "A browser-based Minitel page editor using Canvas and ES6. Online editor demo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89267153,
+                "language": "JavaScript",
+                "last_commit": "2024-02-15T21:43:51Z",
+                "owner": "Zigazou",
+                "repo": "miedit",
+                "stars": 70
+              }
+            }
+          ],
+          "description": "Minitel pages used to be provided in the form of a tree structure of .VDT pages. VDT format was use to describe characters displayed on the screen and basic animations / the order in which the characters are displayed. You can see VDT files as some sort of ASCII/GIF file, but beware: the charset is quite different from classic ASCII. To produce VDT pages, editors exist, allowing you to find the available characters, hexadecimal correspondence for each symbol on screen, and write your animations.",
+          "node_type": "group",
+          "title": "Editors"
         },
         {
           "children": [
@@ -550,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:39:17.682Z",
+    "last_updated": "2026-08-24T14:48:15.519Z",
     "original_repository": "bill-of-materials/awesome-minitel",
     "original_repository_id": 567770907,
     "original_repository_sha": "569449bc93781cfde2b40c9f736ed5d42de36d28",
