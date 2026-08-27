@@ -260,7 +260,7 @@ content, some of these projects may or may not be suitable for you.
 
 * [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-08-04 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
 
-* [BwanaFr/minitel-server](https://github.com/BwanaFr/minitel-server) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-01-01 - A small
+* [BwanaFr/minitel-server](https://github.com/BwanaFr/minitel-server) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-01 - A small
   TCP based Minitel server written in Python.
 
 * [64rulez/PyMoIP](https://github.com/64rulez/PyMoIP) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2022-12-10 - A Minitel server using
@@ -412,7 +412,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-The [awesome-minitel](https://github.com/bill-of-materials/awesome-minitel) ⭐ 53 | 🐛 0 | 📅 2025-10-03
+The [awesome-minitel](https://github.com/bill-of-materials/awesome-minitel) ⭐ 54 | 🐛 0 | 📅 2025-10-03
 project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 [fr](./Licence_CeCILL-B_V1-fr.txt)) license.
 

@@ -312,7 +312,7 @@
                 "last_commit": "2025-01-01T15:58:23Z",
                 "owner": "BwanaFr",
                 "repo": "minitel-server",
-                "stars": 9
+                "stars": 10
               }
             },
             {
@@ -666,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:39.532Z",
+    "last_updated": "2026-08-27T20:59:37.857Z",
     "original_repository_info": {
       "archived": false,
       "id": 567770907,
@@ -674,7 +674,7 @@
       "last_commit": "2025-10-03T10:14:10Z",
       "owner": "bill-of-materials",
       "repo": "awesome-minitel",
-      "stars": 53
+      "stars": 54
     },
     "original_repository_sha": "569449bc93781cfde2b40c9f736ed5d42de36d28",
     "enhanced_repository": "enhansome/enhansome-minitel",
