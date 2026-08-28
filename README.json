@@ -18,7 +18,8 @@
                 "owner": "faxm0dem",
                 "repo": "pi0tel",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": "This section provides different ways of using the Péri-informatique Serial socket of the Minitel, which is able to receive characters / octets to display, and send keyboard inputs. This is the easiest way to use the Minitel today since it doesn't require any physical modifications of the terminals. Extra hardware is required to adapt the signal due to unusual voltage levels (>5V).",
@@ -40,7 +41,8 @@
                 "owner": "jfdelnero",
                 "repo": "minitel",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "64rulez",
                 "repo": "minitel2.0",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": "Another approach could be to modify the terminals directly.",
@@ -92,7 +95,8 @@
                     "owner": "iodeo",
                     "repo": "Minitel-ESP32",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 },
                 {
                   "node_type": "item",
@@ -107,7 +111,8 @@
                     "owner": "eserandour",
                     "repo": "Minitel1B_Hard",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 },
                 {
                   "node_type": "item",
@@ -122,7 +127,8 @@
                     "owner": "iodeo",
                     "repo": "Socketel",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 },
                 {
                   "node_type": "item",
@@ -137,7 +143,8 @@
                     "owner": "jbellue",
                     "repo": "3615_SSH",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 }
               ],
               "description": "Those projects are dedicated to people using the serial port of their Minitel with an ESP32 microcontroller. See the hardware section (DIY) above for more information about the required hardware (ESP32 devboard or a custom cable with a bare ESP32).",
@@ -159,7 +166,8 @@
                     "owner": "mchobby",
                     "repo": "picotel",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 },
                 {
                   "node_type": "item",
@@ -174,7 +182,8 @@
                     "owner": "cquest",
                     "repo": "websocket2minitel",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 },
                 {
                   "node_type": "item",
@@ -189,7 +198,8 @@
                     "owner": "pR-0000",
                     "repo": "Minitel-image-viewer",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 }
               ],
               "description": "Projects dedicated to people using the serial port of their Minitel directly from a computer with a custom adapter, without needing a standalone microcontroller. Useful if you can to control your Minitel from a Raspberry Pi, a computer, etc.",
@@ -211,7 +221,8 @@
                     "owner": "jfdelnero",
                     "repo": "minitel",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:21:11.854Z"
                 }
               ],
               "description": null,
@@ -238,7 +249,8 @@
                 "owner": "cquest",
                 "repo": "pynitel",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -253,7 +265,8 @@
                 "owner": "Zigazou",
                 "repo": "PyMinitel",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -268,7 +281,8 @@
                 "owner": "cquest",
                 "repo": "cristel",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -283,7 +297,8 @@
                 "owner": "ludosevilla",
                 "repo": "minipaviCli",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -298,7 +313,8 @@
                 "owner": "ludosevilla",
                 "repo": "minipavi",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -313,7 +329,8 @@
                 "owner": "BwanaFr",
                 "repo": "minitel-server",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -328,7 +345,8 @@
                 "owner": "64rulez",
                 "repo": "PyMoIP",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -343,7 +361,8 @@
                 "owner": "jiktim",
                 "repo": "minitel.js",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -358,7 +377,8 @@
                 "owner": "cquest",
                 "repo": "dragster",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -373,7 +393,8 @@
                 "owner": "Zigazou",
                 "repo": "miplayer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -388,7 +409,8 @@
                 "owner": "Zigazou",
                 "repo": "HaMinitel",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -403,7 +425,8 @@
                 "owner": "Mushussu",
                 "repo": "Serveur-Minitel",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": "Minitel server implementations. The idea of these projects is to serve content (VDT pages, text, other...) to clients (software running on a companion board/computer next to the Minitel or on the Minitel directly). Most of the time, these projects are meant to work with Websockets, Telnet, SSH, a directly serial connected terminal, or natively on a X.25 network.\nDepending on your architecture, client and the way the client is able to fetch content, some of these projects may or may not be suitable for you.",
@@ -425,7 +448,8 @@
                 "owner": "Zigazou",
                 "repo": "miedit",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": "Minitel pages used to be provided in the form of a tree structure of .VDT pages. VDT format was use to describe characters displayed on the screen and basic animations / the order in which the characters are displayed. You can see VDT files as some sort of ASCII/GIF file, but beware: the charset is quite different from classic ASCII. To produce VDT pages, editors exist, allowing you to find the available characters, hexadecimal correspondence for each symbol on screen, and write your animations.",
@@ -447,7 +471,8 @@
                 "owner": "Zigazou",
                 "repo": "miedit",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -462,7 +487,8 @@
                 "owner": "bill-of-materials",
                 "repo": "docker-miedit-emulator",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": null,
@@ -484,7 +510,8 @@
                 "owner": "jfdelnero",
                 "repo": "minitel",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -499,7 +526,8 @@
                 "owner": "jfdelnero",
                 "repo": "minitel",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -514,7 +542,8 @@
                 "owner": "immjs",
                 "repo": "minitel-react",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -529,7 +558,8 @@
                 "owner": "chris-y",
                 "repo": "ppmtovtx",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -544,7 +574,8 @@
                 "owner": "Zigazou",
                 "repo": "Unitel",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -559,7 +590,8 @@
                 "owner": "Zigazou",
                 "repo": "ebcdic2vdt",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -574,7 +606,8 @@
                 "owner": "Zigazou",
                 "repo": "teletext2minitel",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": null,
@@ -602,7 +635,8 @@
                 "owner": "jfdelnero",
                 "repo": "minitel",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -617,7 +651,8 @@
                 "owner": "mchobby",
                 "repo": "picotel",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": null,
@@ -639,7 +674,8 @@
                 "owner": "XReyRobert",
                 "repo": "VideotexPagesRepository",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             },
             {
               "node_type": "item",
@@ -654,7 +690,8 @@
                 "owner": "Zigazou",
                 "repo": "reviving-minitel",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
             }
           ],
           "description": null,
@@ -666,7 +703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:59:37.857Z",
+    "last_updated": "2026-08-28T21:21:11.854Z",
     "original_repository_info": {
       "archived": false,
       "id": 567770907,
