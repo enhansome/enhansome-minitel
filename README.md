@@ -118,7 +118,7 @@ hardware is required to adapt the signal due to unusual voltage levels (>5V).
 
 ### Telephonic socket
 
-* [**vdt2bmp**](https://github.com/jfdelnero/minitel/tree/master/VDT2BMP) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08 💙 -
+* [**vdt2bmp**](https://github.com/jfdelnero/minitel/tree/master/VDT2BMP) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08 💙 -
   Emulate FSK payloads (that the native V.23 modem will be able to decode)
   with a just a soundcard and a home made jack adapter with a resistor.
   Can work with a smartphone. More information on
@@ -177,7 +177,7 @@ hardware (ESP32 devboard or a custom cable with a bare ESP32).
 * [eserandour/Minitel1B\_Hard](https://github.com/eserandour/Minitel1B_Hard) ⭐ 44 | 🐛 12 | 🌐 C++ | 📅 2026-05-23 -
   Minitel Library for Arduino (with HardwareSerial).
 
-* [iodeo/Socketel](https://github.com/iodeo/Socketel) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2023-03-20 - A portal to Minitel
+* [iodeo/Socketel](https://github.com/iodeo/Socketel) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-03-20 - A portal to Minitel
   webservices written in micropython for ESP32. Services are externally hosted,
   see [server section](#server-side).
 
@@ -220,12 +220,12 @@ a computer, etc.
 #### Reprogramming
 
 * [**Microprocessor
-  Reprogrammation**](https://github.com/jfdelnero/minitel#bon-et-apr%C3%A8s--que-peut-on-faire-avec-cela-) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08
+  Reprogrammation**](https://github.com/jfdelnero/minitel#bon-et-apr%C3%A8s--que-peut-on-faire-avec-cela-) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08
   💙 - Someone with a decent level of determination found the way to upload
   a custom firmware to the very limited Minitel microprocessor, in order to
   display an impressive [demo](https://www.youtube.com/watch?v=a2HD6OzNoEo). You
   can find the code of the demo here:
-  [the\_minitel\_demo](https://github.com/jfdelnero/minitel/tree/master/minitel2/the_minitel_demo) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08.
+  [the\_minitel\_demo](https://github.com/jfdelnero/minitel/tree/master/minitel2/the_minitel_demo) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08.
   You can also find a dump of the original EPROM with the stock firmware
   [here](http://hxc2001.free.fr/minitel/Minitel_ROMs.zip). A presentation has
   been made on the subject, slides can be found
@@ -258,7 +258,7 @@ content, some of these projects may or may not be suitable for you.
 * [ludosevilla/minipaviCli](https://github.com/ludosevilla/minipaviCli) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-02-24 - A Minitel
   server SDK allowing to build services around simple HTTP requests and PHP, via a MiniPavi gateway.
 
-* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-08-04 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
+* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-08-04 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
 
 * [BwanaFr/minitel-server](https://github.com/BwanaFr/minitel-server) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-01 - A small
   TCP based Minitel server written in Python.
@@ -328,8 +328,8 @@ and write your animations.
 
 ### Tools
 
-* [jfdelnero/vdt2bpm](https://github.com/jfdelnero/minitel/tree/master/VDT2BMP) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08 - A small VDT to BPM file converter.
-* [jfdelnero/vdt2wav](https://github.com/jfdelnero/minitel/tree/master/Minitel_VDT2WAV) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08 - A small VDT to WAV file converter.
+* [jfdelnero/vdt2bpm](https://github.com/jfdelnero/minitel/tree/master/VDT2BMP) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08 - A small VDT to BPM file converter.
+* [jfdelnero/vdt2wav](https://github.com/jfdelnero/minitel/tree/master/Minitel_VDT2WAV) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08 - A small VDT to WAV file converter.
 * [immjs/minitel-react](https://github.com/immjs/minitel-react) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-01 - A react renderer designed for the Minitel
 * [chris-y/PPMToVtx](https://github.com/chris-y/ppmtovtx) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2021-01-22 - A C program to convert PPM files ([Portable pixmap](https://fr.wikipedia.org/wiki/Portable_pixmap)) to Vtx.
 * [Zigazou/unitel2vdt](https://github.com/Zigazou/Unitel) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2018-07-17 - A standalone Python3 script that allows you to extract Videotex pages from an 8 inches floppy disk created on a Unitel application
@@ -353,7 +353,7 @@ and write your animations.
 
 ### Extra studies and documentation
 
-* [**hxc2001**](https://github.com/jfdelnero/minitel) ⭐ 71 | 🐛 3 | 🌐 C | 📅 2026-08-08 💙 - Hardware study of the
+* [**hxc2001**](https://github.com/jfdelnero/minitel) ⭐ 72 | 🐛 3 | 🌐 C | 📅 2026-08-08 💙 - Hardware study of the
   Minitel in french. Also available [here](http://hxc2001.free.fr/minitel/).
   This content is referred multiple time in this repository and feels like a
   rabbit hole. (FR)
