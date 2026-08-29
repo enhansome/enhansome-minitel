@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 275665483,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-12T17:25:25Z",
+                "open_issues": 1,
                 "owner": "faxm0dem",
                 "repo": "pi0tel",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "French Minitel terminal code examples",
+                "homepage": null,
                 "id": 88786136,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-08T11:37:30Z",
+                "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -58,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building a modern computing unit out of an old minitel for domotic applications",
+                "homepage": null,
                 "id": 369915439,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-06T17:34:03Z",
+                "open_issues": 0,
                 "owner": "64rulez",
                 "repo": "minitel2.0",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -89,12 +104,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sample codes for Minitel reuse with an ESP32",
+                    "homepage": "https://hackaday.io/project/180473-minitel-esp32",
                     "id": 379203656,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-03T10:28:17Z",
+                    "open_issues": 1,
                     "owner": "iodeo",
                     "repo": "Minitel-ESP32",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": [
+                      "minitel",
+                      "minitel-1b"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 },
@@ -105,12 +128,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Minitel Library for Arduino/ESP32 (with HardwareSerial)",
+                    "homepage": null,
                     "id": 53755622,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-23T13:20:47Z",
+                    "open_issues": 12,
                     "owner": "eserandour",
                     "repo": "Minitel1B_Hard",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 },
@@ -121,12 +149,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portal to minitel webservices written in micropython for ESP32 microcontroller",
+                    "homepage": null,
                     "id": 446899104,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-20T13:45:24Z",
+                    "open_issues": 1,
                     "owner": "iodeo",
                     "repo": "Socketel",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 },
@@ -137,12 +170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 445568306,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2022-12-05T07:56:40Z",
+                    "open_issues": 0,
                     "owner": "jbellue",
                     "repo": "3615_SSH",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 }
@@ -160,12 +198,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Using Raspberry-Pi PICO and Minitel to create autonomous MicroPython systel",
+                    "homepage": null,
                     "id": 491236212,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-11-09T19:46:33Z",
+                    "open_issues": 0,
                     "owner": "mchobby",
                     "repo": "picotel",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 },
@@ -176,12 +219,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small script to create a bridge between a websocket based videotex server and a real Minitel",
+                    "homepage": null,
                     "id": 142355566,
                     "language": "Python",
+                    "license": "AGPL-3.0",
                     "last_commit": "2022-12-24T00:22:01Z",
+                    "open_issues": 1,
                     "owner": "cquest",
                     "repo": "websocket2minitel",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 },
@@ -192,12 +240,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Convert and send pictures to Minitel terminals",
+                    "homepage": null,
                     "id": 937678852,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-15T17:13:10Z",
+                    "open_issues": 0,
                     "owner": "pR-0000",
                     "repo": "Minitel-image-viewer",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 }
@@ -215,12 +268,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "French Minitel terminal code examples",
+                    "homepage": null,
                     "id": 88786136,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-08T11:37:30Z",
+                    "open_issues": 3,
                     "owner": "jfdelnero",
                     "repo": "minitel",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
                 }
@@ -243,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "python library to write Minitel servers/software",
+                "homepage": null,
                 "id": 112010666,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-05-31T22:16:06Z",
+                "open_issues": 3,
                 "owner": "cquest",
                 "repo": "pynitel",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -259,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyMinitel est une bibliothèque Python permettant de pilor un Minitel depuis un PC sous Linux. Pour cela, la bibliothèque PySerial est nécessaire car elle est utilisée pour dialoguer avec le Minitel, en émission comme en réception.",
+                "homepage": null,
                 "id": 10231662,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-05T06:37:48Z",
+                "open_issues": 4,
                 "owner": "Zigazou",
                 "repo": "PyMinitel",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -275,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logiciel serveur videotex pour Apple ][",
+                "homepage": null,
                 "id": 92876497,
                 "language": null,
+                "license": "AGPL-3.0",
                 "last_commit": "2025-10-24T13:51:39Z",
+                "open_issues": 0,
                 "owner": "cquest",
                 "repo": "cristel",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -291,12 +364,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Librairie PHP de communication avec passerelle MiniPavi et exemples de services",
+                "homepage": "http://www.minipavi.fr",
                 "id": 718537974,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-02-24T17:41:50Z",
+                "open_issues": 0,
                 "owner": "ludosevilla",
                 "repo": "minipaviCli",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "minitel",
+                  "videotex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -307,12 +388,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passerelle MINI Point d'Accès VIdeotex",
+                "homepage": null,
                 "id": 881814195,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-04T16:28:53Z",
+                "open_issues": 0,
                 "owner": "ludosevilla",
                 "repo": "minipavi",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -323,12 +409,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small Minitel TCP server to serve pages",
+                "homepage": null,
                 "id": 217236261,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-01T15:58:23Z",
+                "open_issues": 0,
                 "owner": "BwanaFr",
                 "repo": "minitel-server",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -339,12 +430,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python \"Modem over IP\" for Minitel",
+                "homepage": null,
                 "id": 280146706,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-10T12:14:58Z",
+                "open_issues": 2,
                 "owner": "64rulez",
                 "repo": "PyMoIP",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "minitel",
+                  "modem",
+                  "pstn",
+                  "videotex",
+                  "videotext",
+                  "voip"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -355,12 +458,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Une librairie pour faire un serveur/programme Minitel en Node.JS",
+                "homepage": null,
                 "id": 223789738,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-18T01:16:21Z",
+                "open_issues": 7,
                 "owner": "jiktim",
                 "repo": "minitel.js",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -371,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code source du logiciel serveur vidéotex Dragster",
+                "homepage": null,
                 "id": 64327307,
                 "language": "OpenEdge ABL",
+                "license": "AGPL-3.0",
                 "last_commit": "2018-07-22T13:20:37Z",
+                "open_issues": 0,
                 "owner": "cquest",
                 "repo": "dragster",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -387,12 +502,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plays videotex (VDT) files on Minitels",
+                "homepage": null,
                 "id": 97677553,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-19T06:07:32Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "miplayer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "minitel",
+                  "raspberry",
+                  "raspberry-pi"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -403,12 +527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Haskell library to drive a french Minitel",
+                "homepage": null,
                 "id": 21680569,
                 "language": "Haskell",
+                "license": "GPL-3.0",
                 "last_commit": "2015-02-25T06:25:35Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "HaMinitel",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -419,12 +548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 33778942,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-04-11T14:40:52Z",
+                "open_issues": 0,
                 "owner": "Mushussu",
                 "repo": "Serveur-Minitel",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -442,12 +576,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minitel page editor",
+                "homepage": null,
                 "id": 89267153,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-15T21:43:51Z",
+                "open_issues": 7,
                 "owner": "Zigazou",
                 "repo": "miedit",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "canvas",
+                  "ceefax",
+                  "es6",
+                  "minitel",
+                  "teletel",
+                  "teletex",
+                  "videotex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -465,12 +612,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minitel page editor",
+                "homepage": null,
                 "id": 89267153,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-15T21:43:51Z",
+                "open_issues": 7,
                 "owner": "Zigazou",
                 "repo": "miedit",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "canvas",
+                  "ceefax",
+                  "es6",
+                  "minitel",
+                  "teletel",
+                  "teletex",
+                  "videotex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -481,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx Alpine container containing miedit emulator with configurable target",
+                "homepage": null,
                 "id": 568574132,
                 "language": "Makefile",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-28T23:38:09Z",
+                "open_issues": 0,
                 "owner": "bill-of-materials",
                 "repo": "docker-miedit-emulator",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -504,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "French Minitel terminal code examples",
+                "homepage": null,
                 "id": 88786136,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-08T11:37:30Z",
+                "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -520,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "French Minitel terminal code examples",
+                "homepage": null,
                 "id": 88786136,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-08T11:37:30Z",
+                "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -536,12 +711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 780573577,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-04-01T05:32:34Z",
+                "open_issues": 0,
                 "owner": "immjs",
                 "repo": "minitel-react",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -552,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PPM to Videotext/Viewdata/Teletext",
+                "homepage": null,
                 "id": 315341097,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-01-22T14:49:03Z",
+                "open_issues": 0,
                 "owner": "chris-y",
                 "repo": "ppmtovtx",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -568,12 +753,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unitel extracts Videotex pages from an 8 inches floppy disk created on a Unitel application",
+                "homepage": null,
                 "id": 141197998,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-17T22:33:08Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "Unitel",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "converter",
+                  "ibm3740",
+                  "minitel",
+                  "python3",
+                  "unitel",
+                  "videotex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -584,12 +781,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract Videotex pages from 8\" Unitel disc images",
+                "homepage": null,
                 "id": 141098227,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-07-16T21:47:48Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "ebcdic2vdt",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "conversion",
+                  "ebcdic",
+                  "minitel",
+                  "unitel",
+                  "videotex"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -600,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts Teletext/CEEFAX pages to Minitel page",
+                "homepage": null,
                 "id": 91774641,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2017-05-19T17:07:14Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "teletext2minitel",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -629,12 +842,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "French Minitel terminal code examples",
+                "homepage": null,
                 "id": 88786136,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-08T11:37:30Z",
+                "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -645,12 +863,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using Raspberry-Pi PICO and Minitel to create autonomous MicroPython systel",
+                "homepage": null,
                 "id": 491236212,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-09T19:46:33Z",
+                "open_issues": 0,
                 "owner": "mchobby",
                 "repo": "picotel",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -668,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 128986097,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-07-10T19:24:30Z",
+                "open_issues": 0,
                 "owner": "XReyRobert",
                 "repo": "VideotexPagesRepository",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -684,12 +912,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sources of the \"Reviving Minitel\" presentation given at FOSDEM 2020 (Belgium)",
+                "homepage": null,
                 "id": 238274035,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2020-02-04T18:27:11Z",
+                "open_issues": 0,
                 "owner": "Zigazou",
                 "repo": "reviving-minitel",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "fosdem2020",
+                  "javascript",
+                  "minite",
+                  "retrocomputing"
+                ]
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             }
@@ -703,15 +941,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:11.854Z",
+    "last_updated": "2026-08-29T05:05:09.578Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of minitel resources",
+      "homepage": null,
       "id": 567770907,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2025-10-03T10:14:10Z",
+      "open_issues": 0,
       "owner": "bill-of-materials",
       "repo": "awesome-minitel",
-      "stars": 54
+      "stars": 55,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-readme",
+        "awesome-resources",
+        "cli",
+        "diy-electronics",
+        "esp32",
+        "french",
+        "hardware",
+        "minitel",
+        "minitel-1b",
+        "obsolete",
+        "retro-computer",
+        "retro-computing",
+        "retrotech",
+        "serial-communication",
+        "serial-port",
+        "terminal",
+        "ttyusb",
+        "tui"
+      ]
     },
     "original_repository_sha": "569449bc93781cfde2b40c9f736ed5d42de36d28",
     "enhanced_repository": "enhansome/enhansome-minitel",
