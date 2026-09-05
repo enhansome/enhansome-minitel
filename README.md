@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
