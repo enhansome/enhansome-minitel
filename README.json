@@ -310,7 +310,7 @@
                 "open_issues": 3,
                 "owner": "cquest",
                 "repo": "pynitel",
-                "stars": 77,
+                "stars": 78,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:56:01.511Z",
+    "last_updated": "2026-09-15T15:32:11.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",

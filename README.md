@@ -243,7 +243,7 @@ a directly serial connected terminal, or natively on a X.25 network.
 Depending on your architecture, client and the way the client is able to fetch
 content, some of these projects may or may not be suitable for you.
 
-* [cquest/pyNitel](https://github.com/cquest/pynitel) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2022-05-31 - A python library to
+* [cquest/pyNitel](https://github.com/cquest/pynitel) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2022-05-31 - A python library to
   write Minitel servers/software communicating to Minitel through a serial
   interface. Contains two example services, a minitel directory and 3615 ULLA
   simulation.
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
