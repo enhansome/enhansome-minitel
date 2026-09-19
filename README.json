@@ -113,7 +113,7 @@
                     "open_issues": 1,
                     "owner": "iodeo",
                     "repo": "Minitel-ESP32",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": [
                       "minitel",
                       "minitel-1b"
@@ -359,6 +359,27 @@
             },
             {
               "node_type": "item",
+              "title": "ludosevilla/minipavi",
+              "description": "MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passerelle MINI Point d'Accès VIdeotex",
+                "homepage": null,
+                "id": 881814195,
+                "language": "PHP",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-04T16:28:53Z",
+                "open_issues": 0,
+                "owner": "ludosevilla",
+                "repo": "minipavi",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:21:11.854Z"
+            },
+            {
+              "node_type": "item",
               "title": "ludosevilla/minipaviCli",
               "description": "A Minitel server SDK allowing to build services around simple HTTP requests and PHP, via a MiniPavi gateway.",
               "children": [],
@@ -378,27 +399,6 @@
                   "minitel",
                   "videotex"
                 ]
-              },
-              "first_seen": "2026-08-28T21:21:11.854Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ludosevilla/minipavi",
-              "description": "MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Passerelle MINI Point d'Accès VIdeotex",
-                "homepage": null,
-                "id": 881814195,
-                "language": "PHP",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-04T16:28:53Z",
-                "open_issues": 0,
-                "owner": "ludosevilla",
-                "repo": "minipavi",
-                "stars": 17,
-                "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
             },
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:56:04.759Z",
+    "last_updated": "2026-09-19T14:20:50.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",

@@ -163,13 +163,13 @@ with an ESP32 microcontroller. See the [hardware section
 (DIY)](#diy-serial-interface) above for more information about the required
 hardware (ESP32 devboard or a custom cable with a bare ESP32).
 
-* [**iodeo/Minitel-ESP32**](https://github.com/iodeo/Minitel-ESP32) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2025-10-03 💙 - Iodeo's
+* [**iodeo/Minitel-ESP32**](https://github.com/iodeo/Minitel-ESP32) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2025-10-03 💙 - Iodeo's
   compilation of code samples for Minitel apps development using ESP32 (Arduino
   or micropython). This is a good start point if you want to use a modified
   ESP32. See also the associated [hackaday project
   page](https://hackaday.io/project/180473/instructions) for instructions.
   [**Telnet
-  Pro**](https://github.com/iodeo/Minitel-ESP32/tree/main/arduino/Minitel1B_Telnet_Pro) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2025-10-03
+  Pro**](https://github.com/iodeo/Minitel-ESP32/tree/main/arduino/Minitel1B_Telnet_Pro) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2025-10-03
   💙 is highly recommended, and takes profit from SPIFFS which is a small
   filesystem for Arduino (useful to persist your server list, SSID/WiFi
   credentials...).
@@ -255,10 +255,10 @@ content, some of these projects may or may not be suitable for you.
   (1986) using [Merlin / BIGMAC
   assembler](https://en.wikipedia.org/wiki/Merlin_\(assembler\)).
 
+* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-08-04 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
+
 * [ludosevilla/minipaviCli](https://github.com/ludosevilla/minipaviCli) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-02-24 - A Minitel
   server SDK allowing to build services around simple HTTP requests and PHP, via a MiniPavi gateway.
-
-* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-08-04 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
 
 * [BwanaFr/minitel-server](https://github.com/BwanaFr/minitel-server) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-01 - A small
   TCP based Minitel server written in Python.
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
