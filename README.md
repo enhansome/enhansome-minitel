@@ -412,7 +412,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-The [awesome-minitel](https://github.com/bill-of-materials/awesome-minitel) ⭐ 56 | 🐛 0 | 📅 2025-10-03
+The [awesome-minitel](https://github.com/bill-of-materials/awesome-minitel)
 project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 [fr](./Licence_CeCILL-B_V1-fr.txt)) license.
 
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
