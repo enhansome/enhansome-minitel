@@ -113,7 +113,7 @@
                     "open_issues": 1,
                     "owner": "iodeo",
                     "repo": "Minitel-ESP32",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": [
                       "minitel",
                       "minitel-1b"
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:07:43.835Z",
+    "last_updated": "2026-10-04T15:46:27.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",

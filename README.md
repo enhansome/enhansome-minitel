@@ -163,13 +163,13 @@ with an ESP32 microcontroller. See the [hardware section
 (DIY)](#diy-serial-interface) above for more information about the required
 hardware (ESP32 devboard or a custom cable with a bare ESP32).
 
-* [**iodeo/Minitel-ESP32**](https://github.com/iodeo/Minitel-ESP32) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2025-10-03 💙 - Iodeo's
+* [**iodeo/Minitel-ESP32**](https://github.com/iodeo/Minitel-ESP32) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2025-10-03 💙 - Iodeo's
   compilation of code samples for Minitel apps development using ESP32 (Arduino
   or micropython). This is a good start point if you want to use a modified
   ESP32. See also the associated [hackaday project
   page](https://hackaday.io/project/180473/instructions) for instructions.
   [**Telnet
-  Pro**](https://github.com/iodeo/Minitel-ESP32/tree/main/arduino/Minitel1B_Telnet_Pro) ⭐ 78 | 🐛 1 | 🌐 Python | 📅 2025-10-03
+  Pro**](https://github.com/iodeo/Minitel-ESP32/tree/main/arduino/Minitel1B_Telnet_Pro) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2025-10-03
   💙 is highly recommended, and takes profit from SPIFFS which is a small
   filesystem for Arduino (useful to persist your server list, SSID/WiFi
   credentials...).
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
