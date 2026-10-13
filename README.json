@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:14:36.847Z",
+    "last_updated": "2026-10-13T18:10:43.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",
@@ -953,7 +953,7 @@
       "open_issues": 0,
       "owner": "bill-of-materials",
       "repo": "awesome-minitel",
-      "stars": 56,
+      "stars": 57,
       "topics": [
         "awesome",
         "awesome-list",
