@@ -49,7 +49,7 @@
                 "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -277,7 +277,7 @@
                     "open_issues": 3,
                     "owner": "jfdelnero",
                     "repo": "minitel",
-                    "stars": 72,
+                    "stars": 73,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:21:11.854Z"
@@ -678,7 +678,7 @@
                 "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -699,7 +699,7 @@
                 "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -851,7 +851,7 @@
                 "open_issues": 3,
                 "owner": "jfdelnero",
                 "repo": "minitel",
-                "stars": 72,
+                "stars": 73,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:31:07.294Z",
+    "last_updated": "2026-10-19T17:26:03.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",
@@ -953,7 +953,7 @@
       "open_issues": 0,
       "owner": "bill-of-materials",
       "repo": "awesome-minitel",
-      "stars": 57,
+      "stars": 58,
       "topics": [
         "awesome",
         "awesome-list",
