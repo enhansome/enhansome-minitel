@@ -369,7 +369,7 @@
                 "id": 881814195,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-04T16:28:53Z",
+                "last_commit": "2026-11-09T17:21:15Z",
                 "open_issues": 0,
                 "owner": "ludosevilla",
                 "repo": "minipavi",
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:00:15.109Z",
+    "last_updated": "2026-11-09T21:24:30.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",
