@@ -174,7 +174,7 @@ hardware (ESP32 devboard or a custom cable with a bare ESP32).
   filesystem for Arduino (useful to persist your server list, SSID/WiFi
   credentials...).
 
-* [eserandour/Minitel1B\_Hard](https://github.com/eserandour/Minitel1B_Hard) ⭐ 44 | 🐛 12 | 🌐 C++ | 📅 2026-05-23 -
+* [eserandour/Minitel1B\_Hard](https://github.com/eserandour/Minitel1B_Hard) ⭐ 44 | 🐛 12 | 🌐 C++ | 📅 2026-11-13 -
   Minitel Library for Arduino (with HardwareSerial).
 
 * [iodeo/Socketel](https://github.com/iodeo/Socketel) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-03-20 - A portal to Minitel
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

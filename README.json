@@ -133,7 +133,7 @@
                     "id": 53755622,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-05-23T13:20:47Z",
+                    "last_commit": "2026-11-13T00:32:36Z",
                     "open_issues": 12,
                     "owner": "eserandour",
                     "repo": "Minitel1B_Hard",
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:50:41.968Z",
+    "last_updated": "2026-11-13T18:28:59.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",
