@@ -133,7 +133,7 @@
                     "id": 53755622,
                     "language": "C++",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-13T00:32:36Z",
+                    "last_commit": "2026-11-14T02:24:27Z",
                     "open_issues": 12,
                     "owner": "eserandour",
                     "repo": "Minitel1B_Hard",
@@ -373,7 +373,7 @@
                 "open_issues": 0,
                 "owner": "ludosevilla",
                 "repo": "minipavi",
-                "stars": 18,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:21:11.854Z"
@@ -941,7 +941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:28:59.122Z",
+    "last_updated": "2026-11-14T16:59:49.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of minitel resources",

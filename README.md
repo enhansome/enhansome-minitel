@@ -174,7 +174,7 @@ hardware (ESP32 devboard or a custom cable with a bare ESP32).
   filesystem for Arduino (useful to persist your server list, SSID/WiFi
   credentials...).
 
-* [eserandour/Minitel1B\_Hard](https://github.com/eserandour/Minitel1B_Hard) ⭐ 44 | 🐛 12 | 🌐 C++ | 📅 2026-11-13 -
+* [eserandour/Minitel1B\_Hard](https://github.com/eserandour/Minitel1B_Hard) ⭐ 44 | 🐛 12 | 🌐 C++ | 📅 2026-11-14 -
   Minitel Library for Arduino (with HardwareSerial).
 
 * [iodeo/Socketel](https://github.com/iodeo/Socketel) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2023-03-20 - A portal to Minitel
@@ -255,7 +255,7 @@ content, some of these projects may or may not be suitable for you.
   (1986) using [Merlin / BIGMAC
   assembler](https://en.wikipedia.org/wiki/Merlin_\(assembler\)).
 
-* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2026-11-09 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
+* [ludosevilla/minipavi](https://github.com/ludosevilla/minipavi) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2026-11-09 - MiniPavi gateway, accepting conections from websockets, telnet and RTC/VoIP V23 modems (ie Minitel), giving access to services developped with the minipaviCli SDK.
 
 * [ludosevilla/minipaviCli](https://github.com/ludosevilla/minipaviCli) ⭐ 17 | 🐛 0 | 🌐 PHP | 📅 2026-02-24 - A Minitel
   server SDK allowing to build services around simple HTTP requests and PHP, via a MiniPavi gateway.
@@ -420,4 +420,4 @@ project is released under the CeCILL-B ([en](./Licence_CeCILL-B_V1-en.txt),
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
